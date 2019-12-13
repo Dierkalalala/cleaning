@@ -1,0 +1,116 @@
+{
+  "leftSlides": [
+    {
+      "src": ",/img/product/small.jpg",
+      "show": "first-slide"
+    },
+    {
+      "src": "/img/product/small-2.jpg",
+      "show": "second-slide"
+    },
+    {
+      "src": "/img/product/small.jpg",
+      "show": "third-slide"
+    },
+    {
+      "src": "/img/product/small-2.jpg",
+      "show": "fourth-slide"
+    }
+  ],
+  "slides": [
+    {
+      "id": "first-slide",
+      "src": "/img/product/big.jpg"
+    },
+    {
+      "id": "second-slide",
+      "src": "/img/product/big.jpg"
+    },
+    {
+      "id": "third-slide",
+      "src": "/img/product/big.jpg"
+    },
+    {
+      "id": "fourth-slide",
+      "src": "/img/product/big.jpg"
+    }
+  ],
+  "tabs": [
+    {
+      "title": "W czym korzyśći od stosowania poduszk?",
+      "tabtext": "Rodzynki zawierają glukozę i fruktozę, błonnik pokarmowy, witaminy z grupy B (B1, B2, B5) H i PP,Rodzynki zawierają glukozę i fruktozę, błonnik pokarmowy, witaminy z grupy B (B1, B2, B5) H i PP,Rodzynki zawierają glukozę i fruktozę, błonnik pokarmowy, witaminy z grupy B (B1, B2, B5) H i PP,Rodzynki zawierają glukozę i fruktozę, błonnik pokarmowy, witaminy z grupy B (B1, B2, B5) H i PP,",
+      "id": "first-tab"
+    },
+    {
+      "title": "W czym korzyśći od poduszki cedrowej?",
+      "tabtext": "lorem ipsum dolor bla bla bla lorem ipsum dolor bla bla bla lorem ipsum dolor bla bla bla lorem ipsum dolor bla bla bla lorem ipsum dolor bla bla blalorem ipsum dolor bla bla blalorem ipsum dolor bla bla blalorem ipsum dolor bla bla blalorem ipsum dolor bla bla blalorem ipsum dolor bla bla blalorem ipsum dolor bla bla blalorem ipsum dolor bla bla bla",
+      "id": "second-tab"
+    },
+    {
+      "title": "BBLA BLA BLA BLA BLA",
+      "tabtext": "Don't be a jerk",
+      "id": "third-tab"
+    }
+  ],
+  "navlinks": [
+    {
+      "show": 0,
+      "title": "Описание"
+    },
+    {
+      "show": "1",
+      "title": "Характеристики"
+    },
+    {
+      "show": "2",
+      "title": "Отзывы"
+    }
+  ],
+  "title": "Hellow World",
+  "PopularComponents": [
+    {
+      "id": "with-cedar",
+      "src": "../img/sale/sale-1.jpg",
+      "name": "With Cedar",""
+      "cost": "450",
+      "quantity": [
+        250,
+        500,
+        1000
+      ]
+    },
+    {
+      "id": "pillows-filler",
+      "src": "../img/sale/sale-1.jpg",
+      "name": "Pillows   Filler",
+      "cost":"450",
+      "quantity": [
+        250,
+        500,
+        1000
+      ]
+    },
+    {
+      "id": "with-filler",
+      "src": "../img/sale/sale-1.jpg",
+      "name": "With  Filler",
+      "cost": "450",
+      "quantity": [
+        250,
+        500,
+        1000
+      ]
+    },
+    {
+      "id": "pillows-with-cedar",
+      "src": "../img/sale/sale-1.jpg",
+      "name": "Pillows With Cedar 12" ,
+      "cost": 450,
+      "quantity": [
+        250,
+        500,
+        600
+      ]
+    }
+  ]
+}
